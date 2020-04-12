@@ -1,1 +1,4 @@
-# json-data
+  { "people": [
+         "name":"hati",
+         ]
+       }
